@@ -1,5 +1,6 @@
 # Checkmypass
-Check if your password has ever been hacked. Sends first 5 chars of SHA1 hash to the 'pwned' database which returns the tails of any hacked password hashes.
+Check if your password has ever been hacked. 
+Checkmypass sends the first 5 chars of your SHA1 hash to the 'pwned' database which returns all matching (hacked) hash tails.
 
 ## Table of contents
 * [General info](#general-info)
